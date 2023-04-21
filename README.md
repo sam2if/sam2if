@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate frontend developer from Ethiopa</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=1e9747&width=435&lines=Hi%2C+I'm+Samuel;Welcome+to+my+profile..."><br>
+</p>
+<h3 align="center">I am a Full-Stack Developer. I am convinced that we can change the world through the power of technology. And I want to be part of those who will make the world a better place</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam2if&label=Profile%20views&color=0e75b6&style=flat" alt="sam2if" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amazinggracee&label=Profile%20views&color=0e75b6&style=flat" alt="amazinggracee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam2if" alt="sam2if" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amazinggracee" alt="amazinggracee" /></a> </p>
 
-- 🔭 I’m currently working on [Leaderboard](https://github.com/sam2if/Leaderboard)
+<p align="left"> <a href="https://twitter.com/amazinggraceu" target="blank"><img src="https://img.shields.io/twitter/follow/amazinggraceu?logo=twitter&style=for-the-badge" alt="amazinggraceu" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🔭 I’m currently working on [Leaderboard](https://github.com/Amazinggracee/Leaderboard1)
+
+- 🌱 I’m currently learning **JavaScript AND Networking**
 
 - 👯 I’m looking to collaborate on **any open projects**
 
-- 👨‍💻 All of my projects are available at [https://sam2if.github.io/](https://sam2if.github.io/)
+- 👨‍💻 All of my projects are available at [https://sam2if.github.io/](https://github.com/sam2if?tab=repositories)
 
 - 📫 How to reach me **samif3443@gmail.com**
 
