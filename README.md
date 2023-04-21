@@ -1,7 +1,7 @@
 <p> <img align="right"  alt="gif" src="https://github.com/AbenezerAssefa/AbenezerAssefa/blob/main/Computer-screen-code-glitch-animation-gif-background-free.gif" width="1700"  height="400" /></p>
 
 <br>
-<h1 align="center">Hi 👋, I'm Samuel Lemma from Ethiopia</h1>
+<h1 align="center">Hi 👋, I'm Samuel Lemma</h1>
  
 
 I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Developer || Proficient in Html, Css, Bootstrap,Node.Js, Ruby on Rails, React, Redux, Javascript || Enthusiastic about pair-programming || Lifetime learner.
