@@ -36,9 +36,6 @@ I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Devel
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github.com/sam2if/Capstone_project)
-
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
