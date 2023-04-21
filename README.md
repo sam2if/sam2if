@@ -14,7 +14,7 @@ I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Devel
 
 
 # 💫 About Me:
-## I'm Samuel Lemma 😉<br>- 🎓 I have a **Bachelor's degree** in Computer Engineering.<br>- 👨🏻‍💻 I am learning **Full-Stack Software Development** at [Microverse.](https://www.microverse.org/?grsf=Samuellemma-ck1wny)<br>- 🌱 I’m currently working on side projects and applying to jobs.<br>- 💻 All my projects are available [here.](https://https://github.com/sam2if?tab=repositories)<br>- ✨ Interests: coding, reading books, Learning Language.<br>- ⚡ Fact about me: **I have been working as a Freelance Website and Full-Stack Developer for almost 2 years**.
+## I'm Samuel Lemma 😉<br>- 🎓 I have a **Bachelor's degree** in Computer Engineering.<br>- 👨🏻‍💻 I am learning **Full-Stack Software Development** at [Microverse.](https://www.microverse.org/?grsf=Samuellemma-ck1wny)<br>- 🌱 I’m currently working on side projects and applying to jobs.<br>- 💻 All my projects are available [here.](https://github.com/sam2if?tab=repositories)<br>- ✨ Interests: coding, reading books, Learning Language.<br>- ⚡ Fact about me: **I have been working as a Freelance Website and Full-Stack Developer for almost 2 years**.
 
 
 ## 🌐 Socials:
