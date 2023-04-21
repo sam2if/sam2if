@@ -1,10 +1,9 @@
-<p> <img align="right"  alt="gif" src="https://github.com/AbenezerAssefa/AbenezerAssefa/blob/main/Computer-screen-code-glitch-animation-gif-background-free.gif" width="1700"  height="400" /></p>
+<p> <img align="right" alt="gif" src="https://github.com/AbenezerAssefa/AbenezerAssefa/blob/main/Computer-screen-code-glitch-animation-gif-background-free.gif" width="1700" height="400" /></p> <br> <h1 align="center">Hi 👋, I'm Samuel Lemma from [Ethiopia](poe://www.poe.com/_api/key_phrase?phrase=Ethiopia&prompt=Tell%20me%20more%20about%20Ethiopia.)</h1>
+I am a Full-Stack Developer with experience in developing both back-end and front-end applications. My tech stack includes HTML, CSS, Bootstrap, Node.js, Ruby on Rails, React, Redux, and Javascript. I'm enthusiastic about pair-programming and love to learn new things every day. I am currently available for hire and open to new job opportunities.
 
-<br>
-<h1 align="center">Hi 👋, I'm Samuel Lemma from Ethiopia</h1>
- 
+In addition to my developer skills, I have a Bachelor's degree in Computer Engineering. I'm passionate about coding, reading books, and learning new languages.
 
-I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Developer || Proficient in Html, Css, Bootstrap,Node.Js, Ruby on Rails, React, Redux, Javascript || Enthusiastic about pair-programming || Lifetime learner.
+Please take a look at my portfolio, which includes some of my recent projects. I have pinned my most complex projects to showcase my skills and experience. I'm continuously working on side projects and constantly improving my skills.
 
 
 ![Profile Visitor](https://komarev.com/ghpvc/?username=sam2if&color=brightgreen)[![GitHub followers](https://img.shields.io/github/followers/AbenezerAssefa.svg?style=social&label=Followers)](https://github.com/AbenezerAssefa?tab=followers)
