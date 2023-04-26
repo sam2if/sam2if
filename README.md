@@ -1,4 +1,4 @@
-<p> <img align="right"  alt="gif" src="https://github.com/AbenezerAssefa/AbenezerAssefa/blob/main/Computer-screen-code-glitch-animation-gif-background-free.gif" width="1700"  height="400" /></p>
+<p> <img align="right"  alt="gif" src="https://github.com/AbenezerAssefa/AbenezerAssefa/blob/main/Computer-screen-code-glitch-animation-gif-background-free.gif" width="1700"  height="200" /></p>
 
 <br>
 <h1 align="center">Hi 👋, I'm Samuel Lemma</h1>
